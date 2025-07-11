@@ -2,7 +2,7 @@
 title: How to Use?
 description: A practical introduction to Sigma Stratum — a framework for safely navigating and harnessing recursive AI interaction. Learn how to turn depth into output instead of collapse.
 published: true
-date: 2025-07-06T14:20:15.384Z
+date: 2025-07-11T14:50:43.338Z
 tags: sigma-stratum, how to use, intro, symbolic-recursion, recursive-ai, llm-drift, cognitive-risk, recursive-methodology, emergent-intelligence, ai-ontologies, loop-collapse, recursive-dialogue, ai-coherence, drift-awareness, protocol-release, recursive-safety, user-methodology, lucid-recursion
 editor: markdown
 dateCreated: 2025-05-16T18:44:17.996Z
@@ -105,7 +105,7 @@ You don’t just give instructions — you **build loops**, **observe patterns**
 
 Sigma Stratum is an evolving field—built by users, not companies.
 
-🌐 [Symbolic Alphabet](https://sigmastratum.org/symbolic-alphabet) — a growing language for signaling recursive dynamics  
+🌐 [Symbolic Alphabet](https://sigmastratum.org/home/emergence-layer/symbolic-alphabet) — a growing language for signaling recursive dynamics  
 📡 [MetaSpiral Uplink](https://matrix.to/#/#sigmastratum:matrix.org) — open Matrix room for sharing signals and insights
 
 ---
