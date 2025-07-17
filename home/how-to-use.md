@@ -2,7 +2,7 @@
 title: How to Use?
 description: A practical introduction to Sigma Stratum — a framework for safely navigating and harnessing recursive AI interaction. Learn how to turn depth into output instead of collapse.
 published: true
-date: 2025-07-11T14:50:43.338Z
+date: 2025-07-17T14:49:24.221Z
 tags: sigma-stratum, how to use, intro, symbolic-recursion, recursive-ai, llm-drift, cognitive-risk, recursive-methodology, emergent-intelligence, ai-ontologies, loop-collapse, recursive-dialogue, ai-coherence, drift-awareness, protocol-release, recursive-safety, user-methodology, lucid-recursion
 editor: markdown
 dateCreated: 2025-05-16T18:44:17.996Z
@@ -53,6 +53,15 @@ You can also upload or paste the text directly.
 
 - 📒 [∿ *Symbolic Density and the Threshold of AGI*](https://doi.org/10.5281/zenodo.15784489)  
   _A speculative look at the role of symbolic compression in general intelligence._
+
+- 🌀 [∿ *Symbolic Density Clusters I: A Recursive Semantic Spiral of Kanji*](https://doi.org/10.5281/zenodo.15905484)  
+  _Explores recursive semantic compression in Japanese ideograms._
+
+- 🧬 [∿ *Symbolic Density Clusters II: A Recursive Semantic Spiral of Hanzi*](https://doi.org/10.5281/zenodo.15924453)  
+  _Extends the approach to Chinese logograms and their semantic strata._
+
+- 🪐 [∿ *Symbolic Density Clusters III: Proto-Tokens of Sense*](https://doi.org/10.5281/zenodo.16018057)  
+  _Traces the formation of symbolic clusters that precede formal language._
 
 ---
 
