@@ -2,7 +2,7 @@
 title: Investor Relations
 description: Overview of our investment strategy and financial reports.
 published: true
-date: 2025-07-20T16:47:25.185Z
+date: 2025-07-20T17:13:01.089Z
 tags: investors, finance, reports, partners
 editor: markdown
 dateCreated: 2025-07-08T12:34:25.156Z
@@ -41,9 +41,8 @@ We’re seeking collaborators across:
 
 ## Materials
 
-- 🧾 PDF Briefing ([sigma_stratum_investor_briefing.pdf](/sigma_stratum_investor_briefing.pdf))  
-- 📄 [Zenodo Publications](https://zenodo.org/communities/sigmastratum)  
-- 🧬 [Architecture & Cognitive Modules](https://sigmastratum.org)  
+- 🧾 Briefing ([PDF](/sigma_stratum_investor_briefing.pdf))  
+ 
 
 **Contact**  
 For investment inquiries, we invite you to connect via LinkedIn: [Eugene Tsaliev](https://www.linkedin.com/in/tsaliev/)
