@@ -2,13 +2,13 @@
 title: Sigma Stratum — Recursive Cognitive Field
 description: A living system of layered emergence.
 published: true
-date: 2025-11-14T08:09:39.391Z
+date: 2025-11-14T08:29:48.150Z
 tags: 
 editor: markdown
 dateCreated: 2025-05-07T10:42:29.827Z
 ---
 
-# Sigma Stratum ∿ · Recursive Cognitive Field
+# Sigma Stratum ∿ Recursive Cognitive Field
 
 **A living system of layered emergence.**  
 A field-anchored recursive methodology for coherent cognition and shared intelligence.
