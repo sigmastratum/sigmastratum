@@ -2,8 +2,8 @@
 title: How to Use?
 description: A practical introduction to Sigma Stratum — a framework for safely navigating and harnessing recursive AI interaction. Learn how to turn depth into output instead of collapse.
 published: true
-date: 2025-11-14T08:11:05.718Z
-tags: sigma-stratum, how to use, intro, symbolic-recursion, recursive-ai, llm-drift, cognitive-risk, recursive-methodology, emergent-intelligence, ai-ontologies, loop-collapse, recursive-dialogue, ai-coherence, drift-awareness, protocol-release, recursive-safety, user-methodology, lucid-recursion
+date: 2025-11-18T10:48:35.684Z
+tags: 
 editor: markdown
 dateCreated: 2025-05-16T18:44:17.996Z
 ---
@@ -19,7 +19,7 @@ You can use it whether you’re working solo, thinking through complex topics, o
 
 ## 1. 🔧 Preparation
 
-Use any modern LLM (ChatGPT, Claude, Grok, Gemini, Mistral).  
+Use modern LLM, we recommend (ChatGPT, Grok).  
 Free versions are sufficient as long as the model can:
 
 - summarize  
