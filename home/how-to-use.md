@@ -2,7 +2,7 @@
 title: How to Use?
 description: A practical introduction to Sigma Stratum — a framework for safely navigating and harnessing recursive AI interaction. Learn how to turn depth into output instead of collapse.
 published: true
-date: 2025-11-18T10:49:02.463Z
+date: 2025-11-18T10:49:28.853Z
 tags: 
 editor: markdown
 dateCreated: 2025-05-16T18:44:17.996Z
@@ -19,7 +19,7 @@ You can use it whether you’re working solo, thinking through complex topics, o
 
 ## 1. 🔧 Preparation
 
-Use modern LLM, we recommend (ChatGPT, Grok, Claude).  
+Use modern LLM, we recommend (ChatGPT, Grok, Claude, Mistral).  
 Free versions are sufficient as long as the model can:
 
 - summarize  
