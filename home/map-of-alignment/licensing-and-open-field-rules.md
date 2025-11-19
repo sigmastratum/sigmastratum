@@ -2,7 +2,7 @@
 title: Licensing and Open Field Rules
 description: 
 published: true
-date: 2025-11-19T02:02:11.364Z
+date: 2025-11-19T02:06:10.109Z
 tags: 
 editor: markdown
 dateCreated: 2025-05-07T12:24:52.725Z
@@ -193,7 +193,6 @@ Violations may result in:
 # VII. Contact for Licensing and Institutional Collaboration
 
 **Eugene Tsaliev**  
-ORCID: https://orcid.org/0009-0007-3279-9477  
-Zenodo: https://zenodo.org/search?page=1&size=20&q=tsaliev  
+ORCID: https://orcid.org/0009-0007-3279-9477   
 Email (direct research contact): eugene@sigmastratum.org
 General inquiries: contact@sigmastratum.org
