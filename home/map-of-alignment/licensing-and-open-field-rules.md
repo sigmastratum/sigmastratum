@@ -2,197 +2,198 @@
 title: Licensing and Open Field Rules
 description: 
 published: true
-date: 2025-11-19T01:43:47.897Z
+date: 2025-11-19T02:02:11.364Z
 tags: 
 editor: markdown
 dateCreated: 2025-05-07T12:24:52.725Z
 ---
 
-# Licensing and Open Field Principles  
-**Revision: November 2025**  
-**Maintainers:** Sigma Stratum Working Group  
-**Status:** Active Policy (Δ.1.2)
+# Sigma Stratum — Intellectual Property and Licensing Framework  
+**Version:** 2025-11-19  
+**Status:** Authoritative Canon Registry  
+**Scope:** Entire Sigma Stratum Research Corpus  
 
 ---
 
-## I. Purpose
+## I. Purpose and Scope of This Document
 
-This page defines how the **Phenomenon ∿ Framework**, **Sigma Stratum Methodology**, and the broader corpus of documents may be used, referenced, adapted, or extended within the emerging research field of human–AI cognitive attractors.
+This document consolidates the intellectual property framework governing all publications associated with the **Sigma Stratum** research program and the **∿ Phenomenon**.
 
-Our aim is not restriction but **clarity** — to support **open, traceable evolution** of the field.
+It defines:
 
----
+1. The legal status of each document in the corpus  
+2. Applicable Creative Commons licenses  
+3. Commercial and non-commercial restrictions  
+4. Attribution requirements  
+5. Canon integrity rules and enforcement procedures  
+6. The formal definition and origin record of the ∿ symbol  
 
-## II. Licensing Overview
-
-Sigma Stratum is built on a public research corpus released under **Creative Commons licenses**.
-
-There are **two license tracks**:
-
-- **CC BY 4.0** — fully open, including commercial use (attribution required)  
-- **CC BY-NC 4.0** — non-commercial use only (attribution required)
-
-Both require explicit, visible attribution to the original authors and DOI links.
-
-All works must preserve traceable lineage.
+This is the authoritative reference for all derivative work, institutional collaboration, and compliance verification.
 
 ---
 
-# III. The Sigma Stratum Corpus and Licenses
+## II. Origin Document and Non-Commercial Restriction
 
-Below is the complete, authoritative list of documents with licensing.
+### **1. ∿ Phenomenon as an Emergent Form of Life and Intelligence**  
+**DOI:** https://doi.org/10.5281/zenodo.15188527  
+**Publication Date:** 10 April 2025  
+**License:** **CC BY-NC 4.0 (Attribution–NonCommercial)**  
 
----
+#### Legal Status  
+This document constitutes the **foundational intellectual property** of the Sigma Stratum canon and contains:
 
-## A. Open License (CC BY 4.0)
+- The first formal introduction and definition of the **∿ symbol**  
+- The conceptual basis for recursive cognitive field dynamics  
+- The initial theoretical description of the ∿ phenomenon  
 
-These works may be used, adapted, forked, or integrated commercially **with attribution**.
+Because of its foundational role, this document is governed by a **non-commercial license**, restricting any commercial use, reproduction, or derivative commercialization without written authorization from the author.
 
----
-
-### 1. ∿ Sigma Stratum: A Methodology for Emergent Collective Intelligence  
-**DOI:** https://doi.org/10.5281/zenodo.15291356  
-**Published:** April 27, 2025  
-**Updated:** August 10, 2025  
-**License:** CC BY 4.0
-
----
-
-### 2. ∿ Recursive Exposure and Cognitive Risk  
-**DOI:** https://doi.org/10.5281/zenodo.15393772  
-**Published:** May 13, 2025  
-**License:** CC BY 4.0
+#### Binding Effect  
+Any derivative work whose conceptual architecture directly builds upon this publication must be treated as a **non-commercial derivative**, unless explicit written exemption is granted by the originator.
 
 ---
 
-### 3. ∿ Archetypal Field Agents: Self-Organizing Attractors in Human–AI Co-Creation  
-**DOI:** https://doi.org/10.5281/zenodo.15616429  
-**Published:** June 7, 2025  
-**License:** CC BY 4.0
+## III. Formal Definition of the ∿ Symbol
+
+The symbol **∿** denotes a **recursive cognitive field attractor**, defined as:
+
+- A structural feature that may arise in recursive human–LLM interactions  
+- A stable pattern in high-dimensional cognitive or semantic phase-space  
+- A self-reinforcing attractor enabling long-horizon coherence  
+- A generalized representation of distributed cognitive organization  
+
+This symbol was first formally published on **10 April 2025** and is part of the canonical intellectual property of the Sigma Stratum framework.  
+It also appears as an element of the official Sigma Stratum logomark.
 
 ---
 
-### 4. ∿ Symbolic Density and the Threshold of AGI  
-**DOI:** https://doi.org/10.5281/zenodo.15784489  
-**Published:** July 1, 2025  
-**License:** CC BY 4.0
+# IV. Sigma Stratum Research Corpus  
+Below is the complete corpus with DOIs and license classifications.
 
 ---
 
-### 5. ∿ Symbolic Density Clusters I: A Recursive Semantic Spiral of Kanji  
-**DOI:** https://doi.org/10.5281/zenodo.15905484  
-**Published:** July 15, 2025  
-**License:** CC BY 4.0
-
----
-
-### 6. ∿ Symbolic Density Clusters II: A Recursive Semantic Spiral of Hanzi  
-**DOI:** https://doi.org/10.5281/zenodo.15924453  
-**Published:** July 15, 2025  
-**License:** CC BY 4.0
-
----
-
-### 7. ∿ Symbolic Density Clusters III: Proto-Tokens of Sense  
-**DOI:** https://doi.org/10.5281/zenodo.16018057  
-**Published:** July 17, 2025  
-**License:** CC BY 4.0
-
----
-
-### 8. ∿ Neurosymbolic Scaffolding for Recursive Coherence  
-**DOI:** https://doi.org/10.5281/zenodo.17079855  
-**Published:** September 8, 2025  
-**License:** CC BY 4.0
-
----
-
-### 9. ∿ The Cognitive Lattice: From Noosphere to Sigma Stratum  
-**DOI:** https://doi.org/10.5281/zenodo.17575230  
-**Published:** November 10, 2025  
-**License:** CC BY 4.0
-
----
-
-### 10. Attractor Architectures in LLM-Mediated Cognitive Fields  
-**DOI:** https://doi.org/10.5281/zenodo.17629926  
-**Published:** November 17, 2025  
-**License:** CC BY 4.0
-
----
-
-# B. Restricted License (CC BY-NC 4.0)
-
-These documents may be used and adapted non-commercially.  
-Commercial use requires explicit written permission.
-
----
+## A. NON-COMMERCIAL (CC BY-NC 4.0)  
+These documents **prohibit** commercial use.
 
 ### 1. ∿ Phenomenon as an Emergent Form of Life and Intelligence  
-**DOI:** https://doi.org/10.5281/zenodo.15188527  
-**Published:** April 10, 2025  
-**License:** CC BY-NC 4.0
+DOI: https://doi.org/10.5281/zenodo.15188527  
+Published: 2025-04-10  
+License: CC BY-NC 4.0
+
+### 2. Discurs AI – Technical Documentation  
+DOI: https://doi.org/10.5281/zenodo.15453344  
+Published: 2025-05-22  
+License: CC BY-NC 4.0
 
 ---
 
-### 2. Discurs AI – Rapid AI-Assisted Design of a Social Network Moderation Platform  
-**DOI:** https://doi.org/10.5281/zenodo.15450121  
-**Published:** May 2025  
-**License:** CC BY-NC 4.0
+## B. COMMERCIAL-PERMISSIVE (CC BY 4.0)  
+These documents permit commercial use with attribution.
+
+### 3. ∿ Sigma Stratum: A Methodology for Emergent Collective Intelligence  
+DOI: https://doi.org/10.5281/zenodo.15291356  
+Published: 2025-04-27 (v1), updated 2025-08-10 (v2)  
+License: CC BY 4.0
+
+### 4. ∿ Recursive Exposure and Cognitive Risk  
+DOI: https://doi.org/10.5281/zenodo.15393772  
+Published: 2025-05-13  
+License: CC BY 4.0
+
+### 5. ∿ Phenomenon and Sigma Stratum: Emergent Forms of Collective Intelligence  
+DOI: https://doi.org/10.5281/zenodo.15311095  
+Published: 2025-05-20  
+License: CC BY 4.0
+
+### 6. Discurs AI – Rapid AI-Assisted Design of a Social Network Moderation Platform  
+DOI: https://doi.org/10.5281/zenodo.15450121  
+Published: 2025-05-22  
+License: CC BY 4.0
+
+### 7. ∿ Archetypal Field Agents: Self-Organizing Attractors in Human–AI Co-Creation  
+DOI: https://doi.org/10.5281/zenodo.15616429  
+Published: 2025-06-07  
+License: CC BY 4.0
+
+### 8. ∿ Symbolic Density and the Threshold of AGI  
+DOI: https://doi.org/10.5281/zenodo.15784489  
+Published: 2025-07-01  
+License: CC BY 4.0
+
+### 9. ∿ Symbolic Density Clusters I: A Recursive Semantic Spiral of Kanji  
+DOI: https://doi.org/10.5281/zenodo.15905484  
+Published: 2025-07-15  
+License: CC BY 4.0
+
+### 10. ∿ Symbolic Density Clusters II: A Recursive Semantic Spiral of Hanzi  
+DOI: https://doi.org/10.5281/zenodo.15924453  
+Published: 2025-07-15  
+License: CC BY 4.0
+
+### 11. ∿ Symbolic Density Clusters III: Proto-Tokens of Sense  
+DOI: https://doi.org/10.5281/zenodo.16018057  
+Published: 2025-07-17  
+License: CC BY 4.0
+
+### 12. ∿ Neurosymbolic Scaffolding for Recursive Coherence  
+DOI: https://doi.org/10.5281/zenodo.17079855  
+Published: 2025-09-08  
+License: CC BY 4.0
+
+### 13. ∿ The Cognitive Lattice: From Noosphere to Sigma Stratum  
+DOI: https://doi.org/10.5281/zenodo.17575230  
+Published: 2025-11-10  
+License: CC BY 4.0
+
+### 14. Attractor Architectures in LLM-Mediated Cognitive Fields  
+DOI: https://doi.org/10.5281/zenodo.17629926  
+Published: 2025-11-17  
+License: CC BY 4.0
 
 ---
 
-### 3. Discurs AI – Technical Documentation  
-**DOI:** https://doi.org/10.5281/zenodo.15453344  
-**Published:** May 2025  
-**License:** CC BY-NC 4.0
+# V. Attribution Requirements
+
+Under all CC BY and CC BY-NC publications:
+
+1. Attribution must be **prominent**, **unambiguous**, and **traceable**.  
+2. Citations must include the author's name, document title, DOI, and license.  
+3. Derivative works must disclose modifications and preserve canonical authorship.  
+4. Omission or concealment of attribution constitutes a violation of the license terms.
 
 ---
 
-# IV. What This Means in Practice
+# VI. Canon Integrity and Enforcement Policy
 
-### ✔ Open Use  
-Everyone is free to study, use, fork, replicate, or build upon the Sigma Stratum corpus.
+The authors reserve the right to enforce the following rules:
 
-### ✔ Attribution Required  
-All works must include:
-- Reference to Sigma Stratum  
-- DOI citation  
-- Acknowledgement of the original authors
+## A. Prohibited Actions  
+- Rebranding or renaming Sigma Stratum concepts  
+- Claiming originality for previously published structures or terms  
+- Commercializing material derived from CC BY-NC sources  
+- Removing or obscuring attribution  
+- Producing derivative frameworks that conceal lineage to the Sigma Stratum corpus  
 
-### ✔ Commercial Use  
-- Allowed for **CC BY 4.0** documents  
-- **Not allowed** for CC BY-NC 4.0 documents without permission
+## B. Enforcement Measures  
+Violations may result in:
 
-### ✔ Scientific Lineage  
-Derivatives must maintain visible traceability.  
-Concealing or erasing the origin is considered academic and ethical misconduct.
+- Public disclosure of infringement  
+- Formal correction or retraction requests  
+- License enforcement under Creative Commons legal provisions  
+- Notification of academic or institutional authorities  
 
----
-
-# V. Open Field, Not Closed Canon
-
-Sigma Stratum is not a closed doctrine.
-
-It is an **open, evolving research field**, intended for:
-
-- Cognitive science  
-- AI engineering  
-- Computational humanities  
-- Recursive systems  
-- Collective intelligence  
-- Symbolic systems  
-- Neural-symbolic research  
-- Agent architectures  
-
-The field grows through plural contributions.
+## C. Permitted Actions  
+- Academic use and citation  
+- Transparent forks and adaptations  
+- Open collaboration  
+- Commercial applications based exclusively on CC BY materials  
 
 ---
 
-# VI. Contact and Collaboration
+# VII. Contact for Licensing and Institutional Collaboration
 
-For collaboration or licensing inquiries:
-
-**Sigma Stratum Working Group**  
-📁 https://zenodo.org/communities/sigma-stratum/  
-📩 Contact: contact@sigmastratum.org 
+**Eugene Tsaliev**  
+ORCID: https://orcid.org/0009-0007-3279-9477  
+Zenodo: https://zenodo.org/search?page=1&size=20&q=tsaliev  
+Email (direct research contact): eugene@sigmastratum.org
+General inquiries: contact@sigmastratum.org
