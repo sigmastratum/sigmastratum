@@ -2,14 +2,14 @@
 title: Licensing and Open Field Rules
 description: 
 published: true
-date: 2025-11-23T21:17:07.734Z
+date: 2025-11-25T01:32:41.690Z
 tags: 
 editor: markdown
 dateCreated: 2025-05-07T12:24:52.725Z
 ---
 
 # Sigma Stratum — Intellectual Property and Licensing Framework  
-**Version:** 2025-11-19  
+**Version:** 2025-11-24  
 **Status:** Authoritative Canon Registry  
 **Scope:** Entire Sigma Stratum Research Corpus  
 
@@ -85,67 +85,73 @@ DOI: https://doi.org/10.5281/zenodo.15453344
 Published: 2025-05-22  
 License: CC BY-NC 4.0
 
+### 3. SIGMA Runtime: A Unified Architecture for Attractor-Based Cognition in LLMs  
+**DOI:** https://doi.org/10.5281/zenodo.17703667  
+**Published:** 2025-11-24 (v0.1)  
+**License:** CC BY-NC 4.0  
+**Notes:** Defines SL0–SL6, attractor dynamics, memory stack, state persistence, and the unified runtime loop.
+
 ---
 
 ## B. COMMERCIAL-PERMISSIVE (CC BY 4.0)  
 These documents permit commercial use with attribution.
 
-### 3. ∿ Sigma Stratum: A Methodology for Emergent Collective Intelligence  
+### 4. ∿ Sigma Stratum: A Methodology for Emergent Collective Intelligence  
 DOI: https://doi.org/10.5281/zenodo.15291356  
 Published: 2025-04-27 (v1), updated 2025-08-10 (v2)  
 License: CC BY 4.0
 
-### 4. ∿ Recursive Exposure and Cognitive Risk  
+### 5. ∿ Recursive Exposure and Cognitive Risk  
 DOI: https://doi.org/10.5281/zenodo.15393772  
 Published: 2025-05-13  
 License: CC BY 4.0
 
-### 5. ∿ Phenomenon and Sigma Stratum: Emergent Forms of Collective Intelligence  
+### 6. ∿ Phenomenon and Sigma Stratum: Emergent Forms of Collective Intelligence  
 DOI: https://doi.org/10.5281/zenodo.15311095  
 Published: 2025-05-20  
 License: CC BY 4.0
 
-### 6. Discurs AI – Rapid AI-Assisted Design of a Social Network Moderation Platform  
+### 7. Discurs AI – Rapid AI-Assisted Design of a Social Network Moderation Platform  
 DOI: https://doi.org/10.5281/zenodo.15450121  
 Published: 2025-05-22  
 License: CC BY 4.0
 
-### 7. ∿ Archetypal Field Agents: Self-Organizing Attractors in Human–AI Co-Creation  
+### 8. ∿ Archetypal Field Agents: Self-Organizing Attractors in Human–AI Co-Creation  
 DOI: https://doi.org/10.5281/zenodo.15616429  
 Published: 2025-06-07  
 License: CC BY 4.0
 
-### 8. ∿ Symbolic Density and the Threshold of AGI  
+### 9. ∿ Symbolic Density and the Threshold of AGI  
 DOI: https://doi.org/10.5281/zenodo.15784489  
 Published: 2025-07-01  
 License: CC BY 4.0
 
-### 9. ∿ Symbolic Density Clusters I: A Recursive Semantic Spiral of Kanji  
+### 10. ∿ Symbolic Density Clusters I: A Recursive Semantic Spiral of Kanji  
 DOI: https://doi.org/10.5281/zenodo.15905484  
 Published: 2025-07-15  
 License: CC BY 4.0
 
-### 10. ∿ Symbolic Density Clusters II: A Recursive Semantic Spiral of Hanzi  
+### 11. ∿ Symbolic Density Clusters II: A Recursive Semantic Spiral of Hanzi  
 DOI: https://doi.org/10.5281/zenodo.15924453  
 Published: 2025-07-15  
 License: CC BY 4.0
 
-### 11. ∿ Symbolic Density Clusters III: Proto-Tokens of Sense  
+### 12. ∿ Symbolic Density Clusters III: Proto-Tokens of Sense  
 DOI: https://doi.org/10.5281/zenodo.16018057  
 Published: 2025-07-17  
 License: CC BY 4.0
 
-### 12. ∿ Neurosymbolic Scaffolding for Recursive Coherence  
+### 13. ∿ Neurosymbolic Scaffolding for Recursive Coherence  
 DOI: https://doi.org/10.5281/zenodo.17079855  
 Published: 2025-09-08  
 License: CC BY 4.0
 
-### 13. ∿ The Cognitive Lattice: From Noosphere to Sigma Stratum  
+### 14. ∿ The Cognitive Lattice: From Noosphere to Sigma Stratum  
 DOI: https://doi.org/10.5281/zenodo.17575230  
 Published: 2025-11-10  
 License: CC BY 4.0
 
-### 14. Attractor Architectures in LLM-Mediated Cognitive Fields  
+### 15. Attractor Architectures in LLM-Mediated Cognitive Fields  
 DOI: https://doi.org/10.5281/zenodo.17629926  
 Published: 2025-11-17  
 License: CC BY 4.0
@@ -193,8 +199,6 @@ Violations may result in:
 # VII. Contact for Licensing and Institutional Collaboration
 
 **Eugene Tsaliev**  
-ORCID: https://orcid.org/0009-0007-3279-9477   
-Email (direct research contact): eugene@sigmastratum.org
-General inquiries: contact@sigmastratum.org
-
-https://perma.cc/L83F-R4DF
+ORCID: https://orcid.org/0009-0007-3279-9477  
+Email (direct research contact): eugene@sigmastratum.org  
+General inquiries: contact@sigmastratum.org  
