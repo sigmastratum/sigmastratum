@@ -2,7 +2,7 @@
 title: Licensing and Open Field Rules
 description: 
 published: true
-date: 2025-11-25T01:32:41.690Z
+date: 2025-11-25T01:35:16.168Z
 tags: 
 editor: markdown
 dateCreated: 2025-05-07T12:24:52.725Z
@@ -202,3 +202,5 @@ Violations may result in:
 ORCID: https://orcid.org/0009-0007-3279-9477  
 Email (direct research contact): eugene@sigmastratum.org  
 General inquiries: contact@sigmastratum.org  
+
+**Snapshot**: https://perma.cc/MJT3-4VZH
