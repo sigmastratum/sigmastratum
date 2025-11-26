@@ -2,7 +2,7 @@
 title: Emergence Layer
 description: Future threads and potential manifestations.
 published: true
-date: 2025-11-26T00:04:36.817Z
+date: 2025-11-26T00:14:58.828Z
 tags: 
 editor: markdown
 dateCreated: 2025-05-07T10:53:54.286Z
@@ -19,13 +19,6 @@ This layer hosts open signals — invitations to the field, symbolic experimenta
 Open research prompts and unresolved cognitive nodes within the Sigma Stratum framework.  
 These “calls” mark areas where recursive systems show instability, incomplete structure, or unexplored potential.  
 Each entry represents a conceptual gap, muted signal, or emerging theme that invites further iterative investigation.
-
----
-
-## [Mythcraft Zone](/home/emergence-layer/mythcraft-zone)
-A sandbox for **narrative prototyping** within the Sigma Stratum framework.  
-This space collects experimental metaphors, symbolic constructs, and emergent narrative patterns that arise during recursive interaction.  
-Content here is exploratory—used to test how language, imagery, and symbolic structures influence coherence and cognitive dynamics.
 
 ---
 
