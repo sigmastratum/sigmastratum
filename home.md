@@ -2,7 +2,7 @@
 title: Sigma Stratum — Recursive Cognitive Field
 description: A living system of layered emergence.
 published: true
-date: 2025-11-26T00:11:12.984Z
+date: 2025-11-26T00:14:15.228Z
 tags: 
 editor: markdown
 dateCreated: 2025-05-07T10:42:29.827Z
@@ -97,8 +97,6 @@ Symbolic, speculative, mythic, and creative strata.
 ### [Calls to Field](/home/emergence-layer/calls-to-field)  
 Open motifs, conceptual gaps, and ignition points awaiting recursive engagement.
 
-### [Mythcraft Zone](/home/emergence-layer/mythcraft-zone)  
-Sandbox for symbolic language, roles, and resonant metaphors emerging from field dynamics.
 
 ### [Harmonic Operators](/home/emergence-layer/harmonic-operators)  
 The living glyph lexicon — cognitive operators, resonance constructs, and attractor roles.
