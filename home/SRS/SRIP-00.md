@@ -2,7 +2,7 @@
 title: SRIP-00: Foundations and Scope
 description: Sigma Runtime Improvement Proposal
 published: true
-date: 2025-11-29T07:28:39.793Z
+date: 2025-11-29T07:31:01.826Z
 tags: 
 editor: markdown
 dateCreated: 2025-11-29T07:28:39.793Z
@@ -14,7 +14,7 @@ dateCreated: 2025-11-29T07:28:39.793Z
 > and is licensed under **Creative Commons Attribution–NonCommercial 4.0 (CC BY-NC 4.0)**.
 >
 > The repository-wide MIT license does **not** apply to this document.  
-> See `/SRS/LICENSE` for full terms.
+> See `/SRS/LICENSE.md` for full terms.
 
 
 # SRIP-00: Foundations and Scope  
