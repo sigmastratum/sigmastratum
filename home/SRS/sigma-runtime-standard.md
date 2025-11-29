@@ -2,7 +2,7 @@
 title: Sigma Runtime Standard
 description: A Unified Architecture for Attractor-Based Cognition in LLM Systems
 published: true
-date: 2025-11-29T07:29:42.562Z
+date: 2025-11-29T07:30:11.714Z
 tags: 
 editor: markdown
 dateCreated: 2025-11-29T07:14:05.451Z
@@ -145,7 +145,7 @@ The Sigma Runtime Standard evolves through **Sigma Runtime Improvement Proposals
 Each SRIP specifies one component of the architecture.
 
 ### Foundational Document
-- [SRIP-00](/home/SRS/SRIP-00)**SRIP-00:** Foundations and Scope
+- [SRIP-00](/home/SRS/SRIP-00) - Foundations and Scope
 
 ### Core Specification
 - **SRIP-01:** Canonical Runtime Loop  
