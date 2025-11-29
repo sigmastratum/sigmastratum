@@ -2,15 +2,24 @@
 title: Sigma Runtime Standard
 description: A Unified Architecture for Attractor-Based Cognition in LLM Systems
 published: true
-date: 2025-11-29T07:14:05.451Z
+date: 2025-11-29T07:25:07.331Z
 tags: 
 editor: markdown
 dateCreated: 2025-11-29T07:14:05.451Z
 ---
 
-# Sigma Runtime Standard  
+> **License Notice – Sigma Runtime Standard**
+>
+> This document is part of the **Sigma Runtime Standard (SRS)**  
+> and is licensed under **Creative Commons Attribution–NonCommercial 4.0 (CC BY-NC 4.0)**.
+>
+> The repository-wide MIT license does **not** apply to this document.  
+> See `/SRS/LICENSE.md` for full terms.
+
+# Sigma Runtime Standard
 *A Unified Architecture for Attractor-Based Cognition in LLM Systems*  
 **Version:** Draft (2025)
+
 
 The **Sigma Runtime Standard** defines a unified architectural layer for long-horizon, attractor-stabilized cognition in large language models and multi-agent systems. It establishes the structural principles, runtime semantics, and interoperability rules required for building systems that maintain **coherence, continuity, and recursive stability** across extended human–AI interactions.
 
